@@ -53,7 +53,8 @@ git status will tell me uncommited, unstaged, untracked files
 
 
 
-
-Trial to check if  I can transfer or push to the github
+How to bring changes from remote to the local 
+git pull
+You need to use git pull if you are collaborating or remotely you modified the document
 
 
