@@ -87,3 +87,7 @@ to then move around to the other branch, you can enter the command `git checkout
 This means you have created a mirror of your files under a different name. All the changes you make within a branch, stay within that branch, meaning that you can work on a file while keeping an original version, or go in two different ways with the same document. 
 
 If you do `git push`, you will only push the branch you are currently in. 
+
+
+
+<mark>Let's test this conflict out</mark>
