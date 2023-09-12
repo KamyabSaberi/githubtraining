@@ -14,6 +14,8 @@ staging area is the location used to prepare new snapshots to the timeline, it i
 
 To check in what conceptual area my file is i can use `git status`
 
+Remote respoitory is cloud  respoitroy
+
 ## Manual of git commands
 
 1 how to initilize git
@@ -61,3 +63,15 @@ git clone <ssh key> to copy the data to your own folder (note: This should not b
 Make the changes and save
 
 and then do a git status (adds and commits) and git push to update the other persons remote repository. 
+
+7 how to create and use a link between local remote repository
+
+create link (bridge)
+
+`git remote add <name for link> <ssh> `
+
+PS name for link is usually the same name as my repostories but can be anything I like. 
+
+to transfer `git push`
+
+Never use git reset
