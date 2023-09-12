@@ -79,3 +79,9 @@ Never use git reset
 
 
 ## I am messing up with time creating a confuses timeline
+
+
+
+## Conflict
+
+Don't mess it up!
