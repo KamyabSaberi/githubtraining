@@ -50,11 +50,14 @@ git status will tell me uncommited, unstaged, untracked files
 
 `git show -2 <file name> `to track the last version
 
-
-
-
 How to bring changes from remote to the local 
 git pull
 You need to use git pull if you are collaborating or remotely you modified the document
 
+### Collaborating
 
+git clone <ssh key> to copy the data to your own folder (note: This should not be your own project folder, so make a separate folder not in your git-folder to avoid problems)
+
+Make the changes and save
+
+and then do a git status (adds and commits) and git push to update the other persons remote repository. 
