@@ -88,6 +88,4 @@ This means you have created a mirror of your files under a different name. All t
 
 If you do `git push`, you will only push the branch you are currently in. 
 
-
-
-<mark>Let's test this conflict out</mark>
+<mark>Let's test this conflict out a second time</mark>
