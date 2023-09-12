@@ -75,3 +75,7 @@ PS name for link is usually the same name as my repostories but can be anything 
 to transfer `git push`
 
 Never use git reset
+
+
+
+## I am messing up with time creating a confuses timeline
